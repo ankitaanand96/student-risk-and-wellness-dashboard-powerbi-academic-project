@@ -27,7 +27,7 @@ By leveraging the dataset and visualization techniques, the analysis helps insti
 
 ## 📂 Dataset Description
 
-File: student_depression_dataset.csv
+File: student_depression_dataset.csv  [https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dataset.csv]
 
 Rows: 27,880
 
@@ -67,7 +67,7 @@ Key Features:
 
 ## 📊 Dashboard Features & Visuals
 
-Visualization	Description	Key Insight: 
+Visualization	Description	Key Insight:[https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dashboard_image.jpg]
 
 - KPI Cards	Total Students (27,880), High-Risk % (0.40), Total Cities (52), Degree Count (28)	Overview of dataset coverage and wellness summary.
 
@@ -146,13 +146,13 @@ KPI	Description:
 
 📂 Student-Risk-Wellness-Dashboard
 
- ├── 📄 README.md
+ ├── 📄 README.md [https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project]
  
- ├── 📊 student_depression_dataset.csv
+ ├── 📊 student_depression_dataset.csv [https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dataset.csv]
  
- ├── 📘 Student_Risk_Report.pbix
+ ├── 📘 Student_Risk_Report.pbix [https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dashboard.pbix]
  
- ├── 🖼️ Dashboard_Screenshot.png
+ ├── 🖼️ Dashboard_Screenshot.png [https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dashboard_image.jpg]
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
