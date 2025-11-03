@@ -9,6 +9,10 @@ The dashboard provides insights into depression risk categories, contributing fa
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[Dashboard]( [Dashboard Features & Visuals](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/edit/main/README.md#-dashboard-features--visuals) | [Insights](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/edit/main/README.md#-insights) | [Project Recommendations](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/edit/main/README.md#-project-recommendations)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📌 Project Requirement
 
 The primary goal was to identify underlying causes of rising depression rates among students, such as:
