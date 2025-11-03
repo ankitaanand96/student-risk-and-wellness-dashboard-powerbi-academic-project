@@ -71,8 +71,6 @@ Key Features:
 
 ## 📊 Dashboard Features & Visuals
 
-[Visualization	Description	Key Insight](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dashboard_image.jpg)
-
 - KPI Cards	Total Students (27,880), High-Risk % (0.40), Total Cities (52), Degree Count (28)	Overview of dataset coverage and wellness summary.
 
 - Donut Chart – Total Students by RiskCategory	Shows proportion of students by risk level	~90% of students fall under Moderate or High Risk.
