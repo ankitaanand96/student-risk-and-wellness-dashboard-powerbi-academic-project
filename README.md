@@ -9,7 +9,7 @@ The dashboard provides insights into depression risk categories, contributing fa
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Dashboard](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dashboard.pbix) | [Dashboard Features & Visuals](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/edit/main/README.md#-dashboard-features--visuals) | [Insights](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/edit/main/README.md#-insights) | [Project Recommendations](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/edit/main/README.md#-project-recommendations)
+[Dashboard](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/blob/main/student_depression_dashboard_image.jpg) | [Dashboard Features & Visuals](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project/edit/main/README.md#-dashboard-features--visuals) | [Insights](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project?tab=readme-ov-file#-insights) | [Project Recommendations](https://github.com/ankitaanand96/student-risk-and-wellness-dashboard-powerbi-academic-project?tab=readme-ov-file#-project-recommendations)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
